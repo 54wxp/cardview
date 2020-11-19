@@ -1,0 +1,39 @@
+{
+  "name": "react-native-rn-cardview-wxp",
+  "version": "1.0.0",
+  "description": "A ReactNative CardView Component for android and iOS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "react-native-component",
+    "react",
+    "mobile",
+    "ios",
+    "android",
+    "cardview"
+  ],
+  "author": {
+    "name": "54wxp",
+    "email": "54wxp@163.com"
+  },
+  "license": "ISC",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:quenice/react-native-cardview.git"
+  },
+  "devDependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.53.0"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
+}
